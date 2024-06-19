@@ -1,0 +1,8 @@
+*.pyc
+docs/
+logs/
+inventory-scanner/build/
+inventory-scanner/dist/
+inventory-scanner/logs/
+inventory-scanner/main.spec
+inventory-scanner/__pycache__

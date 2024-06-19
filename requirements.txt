@@ -1,0 +1,6 @@
+pandas 		0.24.2
+pip install pandas==0.24.2
+pip install numpy==1.16.2
+pip install tabulate==
+pip install pprint==
+pip install win32com==
